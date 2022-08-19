@@ -2,7 +2,12 @@
 
 I modified started code to create an application that enables employees to generate random password. This app will run in the browswer and will feature dynamically updated HTML and CSS powered by JavaScript. 
 
+<<<<<<< HEAD
 attached is the link to my live page: https://emmavazquez13.github.io/passwordgenerator-
+=======
+attached is the link to my live page: 
+<img width="1035" alt="passwordgenerator" src="https://user-images.githubusercontent.com/109707981/185534909-8bac16f1-6b64-4780-8d10-19fb7360576d.png">
+>>>>>>> 1a92dc65fc1d7f2eada7e07fecd84eef78800f3e
 
 ## Acceptance Criteria
 
