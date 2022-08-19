@@ -3,6 +3,7 @@
 I modified started code to create an application that enables employees to generate random password. This app will run in the browswer and will feature dynamically updated HTML and CSS powered by JavaScript. 
 
 attached is the link to my live page: 
+<img width="1035" alt="passwordgenerator" src="https://user-images.githubusercontent.com/109707981/185534909-8bac16f1-6b64-4780-8d10-19fb7360576d.png">
 
 ## Acceptance Criteria
 
